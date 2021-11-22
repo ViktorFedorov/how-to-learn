@@ -1,0 +1,4 @@
+.cards__item {
+  /*border: 1px solid red;*/
+  flex-basis: 240px;
+}
